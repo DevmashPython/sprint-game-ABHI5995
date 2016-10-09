@@ -42,3 +42,9 @@ while 1:
 		break					
 time_elapsed=time.time() - s_time
 print "Game over. Time taken: " + str(time_elapsed)							
+
+
+'''
+1. Mention controls for the game.
+2. The program should be lost after game is lost.
+'''
